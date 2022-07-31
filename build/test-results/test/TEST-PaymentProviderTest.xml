@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PaymentProviderTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-23T08:59:03" hostname="OF060DR59ZMD6NR" time="0.035">
+  <properties/>
+  <testcase name="testUpdatedPaymentLogic_RP2()" classname="PaymentProviderTest" time="0.035"/>
+  <system-out><![CDATA[Initializing Payment Processing...
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
